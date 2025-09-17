@@ -1,0 +1,1 @@
+This repo will contain all the necessary documentation, code, and progress on the music intelligence lab applied research position for the VIPP (vertically integrated project program) at the American University of Beirut
